@@ -8,5 +8,5 @@ venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
 thumbnail: 
 paperurl: https://openreview.net/pdf?id=yQDC5ZcqX6l 
 codeurl: 'https://github.com/chakib401/BCOT/'
-citation: '<b>Chakib Fettal</b>, Lazhar Labiod, Mohamed Nadif'
+citation: '<u>Chakib Fettal</u>, Lazhar Labiod, Mohamed Nadif'
 ---
