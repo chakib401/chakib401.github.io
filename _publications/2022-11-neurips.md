@@ -6,7 +6,7 @@ excerpt: 'Keywords: biclustering, optimal transport'
 date: 2022-11-28
 venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
 thumbnail: 
-paperurl: https://openreview.net/pdf?id=yQDC5ZcqX6l 
+paperurl: 'http://chakib401.github.io/files/BCOT.pdf'
 codeurl: 'https://github.com/chakib401/BCOT/'
 citation: '<u>Chakib Fettal</u>, Lazhar Labiod, Mohamed Nadif'
 ---
