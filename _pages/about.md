@@ -21,9 +21,9 @@ I am a PhD student (CIFRE) at the
 
 
 
-I am mostly interested in unsupervised methods for dealing with graph data in a scalable manner. Another interest of mine is exploring the use of optimal transport in general machine learning problems.
+I am mostly interested in **unsupervised** methods for dealing with **graph data** in a **scalable** manner. Another interest of mine is exploring the use of **optimal transport** in general **machine learning** problems.
 
-In addition to research, I do some general data science work as well as some web development in the industry.
+In addition to research, I did some general data science work as well as some web development in the industry.
 
 If needed, please reach me at _chakib [dot] fettal [at] etu [dot] u-paris [dot] fr_.
 
