@@ -16,4 +16,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am currently a Technical Lead in Machine Learning at Informatique Caisse des Dépôts.
 
-Previously, I completed my PhD at the Centre Borelli, University of Paris Cité, and Informatique Caisse des Dépôts. My research primarily focused on unsupervised learning techniques for handling graph data at scale. Another interest of mine was exploring the use of optimal transport for solving machine learning problems."
+Previously, I completed my PhD at the Centre Borelli, University of Paris Cité, and Informatique Caisse des Dépôts. My research primarily focused on unsupervised learning techniques for handling graph data at scale. Another interest of mine was exploring the use of optimal transport for solving machine learning problems.
